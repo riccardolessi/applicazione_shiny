@@ -5,3 +5,7 @@ matplotlib
 shinywidgets
 jcamp
 requests
+rdkit
+numpy
+scipy
+scikit-learn
